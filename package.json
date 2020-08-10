@@ -2,7 +2,7 @@
   "name": "Web-Bluetooth",
   "version": "1.0.0",
   "description": "Empowering The Use Of Bluetooth Technology On The Web",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +23,11 @@
   },
   "dependencies": {
     "@types/events": "^3.0.0",
+    "lodash": "^4.17.19",
     "socket.io": "^2.3.0"
   }
 }
+
+
+
+

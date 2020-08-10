@@ -23,11 +23,8 @@
   },
   "dependencies": {
     "@types/events": "^3.0.0",
+    "jquery": "^3.5.1",
     "lodash": "^4.17.19",
     "socket.io": "^2.3.0"
   }
 }
-
-
-
-

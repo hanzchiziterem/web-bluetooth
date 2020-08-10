@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/hanzchiziterem/Web-Bluetooth/issues"
   },
-  "homepage": "https://github.com/hanzchiziterem/Web-Bluetooth#readme"
+  "homepage": "https://github.com/hanzchiziterem/Web-Bluetooth#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }

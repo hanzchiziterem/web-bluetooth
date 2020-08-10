@@ -1,0 +1,20 @@
+{
+  "name": "Web-Bluetooth",
+  "version": "1.0.0",
+  "description": "Empowering The Use Of Bluetooth Technology On The Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzchiziterem/Web-Bluetooth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanzchiziterem/Web-Bluetooth/issues"
+  },
+  "homepage": "https://github.com/hanzchiziterem/Web-Bluetooth#readme"
+}
